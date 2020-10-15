@@ -1,7 +1,7 @@
 <?php
 require __DIR__ . "/components/header.php";
 $dir = scandir(__DIR__ . "/docs");
-$files = array_diff($dir, array('.', '..'));
+$files = array_diff($dir, array('.', '..', '.git', 'readme.md'));
 ?>
 <div class="container my-3">
   <h1>Laravel Docs Offline</h1>
