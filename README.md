@@ -1,1 +1,1 @@
-laravel-docs
+Laravel Documentation
