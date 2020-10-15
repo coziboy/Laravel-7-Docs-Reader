@@ -3,5 +3,6 @@
 <script src="./assets/js/bootstrap.min.js" charset="utf-8"></script>
 <script src="./assets/js/highlight.min.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
+<script src="./assets/js/dark-mode-switch.min.js"></script>
 </body>
 </html>
